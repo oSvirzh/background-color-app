@@ -23,7 +23,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="animated-screen"
         options={{
           title: "Native",
           tabBarIcon: ({ color, focused }) => (
